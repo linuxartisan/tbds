@@ -25,6 +25,8 @@ Every node in TBDS can have zero or more children. This tree structure allows yo
 
 The tree representation of this data is present in the file ```sample-tbds.png```.
 
+The ```words.txt``` file contains sample words that one may use to build the tree.
+
 ## Usage
 Compile the code:
 ```
